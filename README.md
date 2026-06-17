@@ -11,7 +11,6 @@ Features employee management, performance tracking, AI feedback generation, anal
 
 * Company Registration
 * Secure Login System
-* Password Hashing using SHA-256
 * Multi-Company Support
 
 ### 👨‍💼 Employee Management
