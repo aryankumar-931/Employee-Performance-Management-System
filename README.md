@@ -125,6 +125,12 @@ Here is a preview of the Employee-Performance-Management-System:
 
 ---
 
+## 🚀 Live Demo
+
+https://employee-performance-management-system-xa2zfebcwpbistjc3txvuk.streamlit.app/
+
+---
+
 ## ▶️ Installation
 
 1. Clone the repository
